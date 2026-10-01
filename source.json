@@ -13,10 +13,19 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.1",
+          "buildVersion": "2",
+          "date": "2026-10-01",
+          "localizedDescription": "Adjusted premium access for AltStore testing so trial-enabled features remain available during development.",
+          "downloadURL": "https://github.com/isaacrhys/RHYSEN/releases/download/v1.0.1/RHYSEN.ipa",
+          "size": 6324317,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "1.0.0",
           "buildVersion": "1",
           "date": "2026-10-01",
-          "localizedDescription": "Initial AltStore release of RHYSEN.",
+          "localizedDescription": "Initial Altstore release of RHYSEN.",
           "downloadURL": "https://github.com/isaacrhys/RHYSEN/releases/download/v1.0.0/RHYSEN.ipa",
           "size": 6321673,
           "minOSVersion": "18.0"
