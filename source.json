@@ -1,4 +1,3 @@
-
 {
   "name": "RHYSEN",
   "subtitle": "Your personal productivity and automation hub.",
@@ -10,6 +9,7 @@
       "developerName": "Isaac Rhys",
       "subtitle": "Your personal productivity and automation hub.",
       "localizedDescription": "RHYSEN brings your daily tasks, work routines, reminders and automations together in one place. Built around a central dashboard, it helps reduce repetitive actions, keep important information accessible and make everyday routines easier to manage.",
+      "iconURL": "https://raw.githubusercontent.com/isaacrhys/RHYSEN/refs/heads/main/assets/rhysen/rhysenicon.PNG",
       "category": "utilities",
       "versions": [
         {
