@@ -24,7 +24,12 @@
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": []
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "RHYSEN uses your location to support location-based features and automations.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "RHYSEN uses your location in the background to support location-based features and automations.",
+          "NSMicrophoneUsageDescription": "RHYSEN uses the microphone for voice input.",
+          "NSSpeechRecognitionUsageDescription": "RHYSEN uses speech recognition to convert your voice into text."
+        }
       }
     }
   ],
