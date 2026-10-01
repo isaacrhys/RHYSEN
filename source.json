@@ -1,1 +1,32 @@
 
+{
+  "name": "RHYSEN",
+  "subtitle": "Your personal productivity and automation hub.",
+  "description": "RHYSEN is a personal life management app designed to bring your daily schedule, work and automations into one connected system.",
+  "apps": [
+    {
+      "name": "RHYSEN",
+      "bundleIdentifier": "app.rhysen",
+      "developerName": "Isaac Rhys",
+      "subtitle": "Your personal productivity and automation hub.",
+      "localizedDescription": "RHYSEN brings your daily tasks, work routines, reminders and automations together in one place. Built around a central dashboard, it helps reduce repetitive actions, keep important information accessible and make everyday routines easier to manage.",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-10-01",
+          "localizedDescription": "Initial AltStore release of RHYSEN.",
+          "downloadURL": "https://github.com/isaacrhys/RHYSEN/releases/download/v1.0.0/RHYSEN.ipa",
+          "size": 6321673,
+          "minOSVersion": "18.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": []
+      }
+    }
+  ],
+  "news": []
+}
