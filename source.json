@@ -13,19 +13,19 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "1.0.1",
-          "buildVersion": "2",
-          "date": "2026-10-01",
-          "localizedDescription": "Adjusted premium access for AltStore testing so trial-enabled features remain available during development.",
-          "downloadURL": "https://github.com/isaacrhys/RHYSEN/releases/download/v1.0.1/RHYSEN.ipa",
-          "size": 6324317,
+          "version": "1.0.2",
+          "buildVersion": "3",
+          "date": "2026-10-05",
+          "localizedDescription": "WHAT'S NEW\n\nWork setup\n• Added a four-step setup for new jobs.\n\nWork settings\n• Made Commute, Shift Settings, and Pay expandable, with only one section open at a time.\n• Simplified pay descriptions.\n\nRefinements\n• Added two-week estimated pay for biweekly jobs when the next week's schedule is available.\n• Made Work Summary and habit color sheets size to their content.\n• Made Actual Time in Task Details a single-row card that expands when tapped.\n• Simplified habit reminder and counter wording.\n• Aligned Work's header with Today's header, including glass buttons and content spacing.\n\nBUG FIXES\n\n• Fixed completed work shifts blocking new tasks after an early clock-out, including same-minute completion.\n• Corrected biweekly estimates so overtime is calculated separately for each week.\n• Addressed background habit buttons reacting during sheet dismissal while preserving their glass interaction.\n• Prevented Today's header from reacting while Work is open.",
+          "downloadURL": "https://github.com/isaacrhys/RHYSEN/releases/download/v1.0.2/RHYSEN.ipa",
+          "size": 6424841,
           "minOSVersion": "18.0"
         },
         {
           "version": "1.0.0",
           "buildVersion": "1",
           "date": "2026-10-01",
-          "localizedDescription": "Initial Altstore release of RHYSEN.",
+          "localizedDescription": "Initial AltStore release of RHYSEN.",
           "downloadURL": "https://github.com/isaacrhys/RHYSEN/releases/download/v1.0.0/RHYSEN.ipa",
           "size": 6321673,
           "minOSVersion": "18.0"
