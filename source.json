@@ -14,9 +14,9 @@
       "versions": [
         {
           "version": "1.0.4",
-          "buildVersion": "6",
-          "date": "2026-10-05",
-          "localizedDescription": "What's New!\n\n• Added Work customization with preset colors, tone & intensity sliders, and card styles.\n• Refined Work setup and it progress indicator.\n• Completed work cards in Daily Summary now blend Chrono Tint with your job color when Chrono Tint is enabled.\n\nBug Fixes\n\n• Estimated Pay now uses scheduled hours, while Earned Pay uses actual worked hours.\n• Recreating a deleted job with the same name reconnects existing shifts and restores their Work Summary totals.\n• Going back from the first Add New Job page now cancels setup and returns to your existing job.",
+          "buildVersion": "7",
+          "date": "2026-10-06",
+          "localizedDescription": "What's New\n\n• Added Work customization with preset colors, tone & intensity sliders, and card styles.\n• Refined Work setup and it progress indicator.\n• Completed work cards in Daily Summary now blend Chrono Tint with your job color when Chrono Tint is enabled.\n\nBug Fixes\n\n• Estimated Pay now uses scheduled hours, while Earned Pay uses actual worked hours.\n• Recreating a deleted job with the same name reconnects existing shifts and restores their Work Summary totals.\n• Going back from the first Add New Job page now cancels setup and returns to your existing job.",
           "downloadURL": "https://github.com/isaacrhys/RHYSEN/releases/download/v1.0.4/RHYSEN.ipa",
           "size": 6548399,
           "minOSVersion": "18.0"
