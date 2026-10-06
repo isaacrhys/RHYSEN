@@ -14,7 +14,7 @@
       "versions": [
         {
           "version": "1.0.3",
-          "buildVersion": "5",
+          "buildVersion": "6",
           "date": "2026-10-05",
           "localizedDescription": "NEW FEATURES\n\n• Hold and drag tasks to reschedule by the minute.\n• Added live time updates, haptic feedback, and a time rail during dragging.\n• Tasks automatically move to the nearest available time when a drop overlaps another task, with an adjustment notice.\n\nBUG FIXES\n\n• Early-completed tasks now free up unused scheduled time.\n• Updated task-tap handling to restore access to details.\n• Improved drag precision, card spacing, and transitions.\n• Corrected work pay estimates, live earnings, and edited clock-in/out timing.\n• Improved geofencing, work setup controls, and color-picker stability.",
           "downloadURL": "https://github.com/isaacrhys/RHYSEN/releases/download/v1.0.3/RHYSEN.ipa",
