@@ -13,6 +13,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.6",
+          "buildVersion": "11",
+          "date": "2026-10-08",
+          "localizedDescription": "Bug fixes and Improvements to notifications.",
+          "downloadURL": "https://github.com/isaacrhys/RHYSEN/releases/download/v1.0.6/RHYSEN.ipa",
+          "size": 6997771,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "1.0.5",
           "buildVersion": "10",
           "date": "2026-10-07",
